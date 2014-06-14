@@ -1,2 +1,2 @@
-blunt-panes
+Blunt Panes
 ===========
